@@ -1,1 +1,1 @@
-# graphQL-apollo-client
+# POC: GraphQL e Apollo client - API Rick and Morty
